@@ -4,7 +4,7 @@ This is a timer-based quiz application that stores high scores client-side.
 
 ## Click link below to begin quiz:
 
-
+https://lydia-tech.github.io/Quick-Quiz/
 
 ```
 ## Instructions:

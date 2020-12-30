@@ -1,0 +1,42 @@
+#startBtn {
+
+    color: rgb(100, 89, 102);
+    margin: 30px 0 0 15px;
+    width: 40%;
+    
+}
+
+#main {
+    margin-left: 0px;
+}
+
+#finalID {
+    font-size: xx-large;
+    margin-left: 15px;
+}
+
+#qzBtn {
+    background-color: rgb(68, 18, 68);
+    border-radius: 10px;
+    display: block;
+    margin: 10px;
+}
+
+#finalScore {
+    1rem 1rem 0 3rem;
+}
+
+#highScores {
+    margin-left: 2%;
+    cursor: pointer;
+    color: rgb(86, 201, 147);
+}
+
+#time {
+    margin-left: 75%;
+}
+
+ul {
+    list-style-type: none;
+    margin-left: -39px;
+}
